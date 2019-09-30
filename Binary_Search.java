@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Binary_Sort {
+public class Binary_Search {
     public static void main(String[] args)
     {
         int [] arr = {5,2,3,4,6,};
